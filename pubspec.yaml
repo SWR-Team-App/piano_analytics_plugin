@@ -4,8 +4,8 @@ version: 0.0.7
 homepage: https://github.com/alex596/piano_analytics_plugin
 
 environment:
-  sdk: ^3.4.3
-  flutter: ^3.22.2
+  sdk: ^3.5.2
+  flutter: ^3.24.2
 
 dependencies:
   flutter:
